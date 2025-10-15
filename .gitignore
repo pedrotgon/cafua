@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+firebase-debug.log
+
+# IDE and tool-specific
+.gemini/
+.genkit/
